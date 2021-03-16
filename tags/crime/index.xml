@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crime on STATE of OSINT</title>
+    <link>https://stateofosint.com/tags/crime/</link>
+    <description>Recent content in crime on STATE of OSINT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stateofosint.com/tags/crime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sinwindie</title>
+      <link>https://stateofosint.com/interviews/sinwindie/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/sinwindie/</guid>
+      <description>🔗 Twitter | Blog
+What was your OSINT highlight of 2020? Launching the OSINT Dojo at the end of 2020 was my highlight for the year. I wanted to help the influx of new OSINTers we were seeing while also providing them a list of challenges so that they had a road map for improving their skillsets and interacting with the overall community while they learned the basics.
+ https://www.OSINTDojo.com</description>
+    </item>
+    
+  </channel>
+</rss>

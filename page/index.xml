@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on STATE of OSINT</title>
+    <link>https://stateofosint.com/page/</link>
+    <description>Recent content in Pages on STATE of OSINT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stateofosint.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://stateofosint.com/about/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/about/</guid>
+      <description>Introduction Open Source Intelligence (OSINT) has grown significantly in recent years. In a world awash with data, more and more organizations are starting to recognize the benefits of using openly available information to better understand the world.
+Government agencies, investigative journalists, financial institutions, law enforcement, and other agencies are increasingly making use of open information to gain business insights, expose wrongdoing, and tell compelling stories. At QOMPLX our own OSINT Team works to gather and analyze open-source information to help our clients better understand and reduce their own cybersecurity risk.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://stateofosint.com/archives/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://stateofosint.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

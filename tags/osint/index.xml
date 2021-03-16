@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>osint on STATE of OSINT</title>
+    <link>https://stateofosint.com/tags/osint/</link>
+    <description>Recent content in osint on STATE of OSINT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stateofosint.com/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brenna Smith</title>
+      <link>https://stateofosint.com/interviews/brenna-smith/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/brenna-smith/</guid>
+      <description>🔗 Twitter
+What was your OSINT highlight of 2020? My highlight of 2020 was getting to broaden my skillset outside of crypto, especially with python work.
+ https://www.bellingcat.com/author/brennasmith/
+ What emerging (good or bad) trends did you notice over the past year? I&amp;rsquo;ve noticed that OSINT is actually a skillset many people have and use daily. In my opinion, that&amp;rsquo;s a great thing and should be humbling for the space. I think many of us consider OSINT to be a small group of experts, but there are so many other people out there doing great open-source research who just don&amp;rsquo;t know about the community or identify with the label.</description>
+    </item>
+    
+    <item>
+      <title>Espen Ringstad (Zewensec)</title>
+      <link>https://stateofosint.com/interviews/zewensec/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/zewensec/</guid>
+      <description>🔗 Twitter
+What was your OSINT highlight of 2020? I think I&amp;rsquo;d like to highlight the so-called &amp;ldquo;FBI Etsy t-shirt case&amp;rdquo;, where the FBI was able to identify a participant in the George Floyd protests based on her t-shirt. She was wearing a shirt that she bought on Etsy, where she had also left a review. This, in addition to image analysis of photos and videos, where they were also able to identify a tattoo, ultimately lead to the arrest of the protester.</description>
+    </item>
+    
+    <item>
+      <title>GONZO</title>
+      <link>https://stateofosint.com/interviews/gonzo/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/gonzo/</guid>
+      <description>🔗 Twitter | Web
+What was your OSINT highlight of 2020? 2nd position on TraceLabs Search Party CTF.
+What emerging (good or bad) trends did you notice over the past year? The adoption of artificial intelligence and facial recognition technologies by many sectors that before the stage of COVID-19 was unthinkable that they would use it.
+Any favorite tool or technique that you tried in 2020? @Megadose did a great job with Holehe, also GHunt from Epieos.</description>
+    </item>
+    
+    <item>
+      <title>Hermit</title>
+      <link>https://stateofosint.com/interviews/hermit/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/hermit/</guid>
+      <description>🔗 Twitter | Github
+What was your OSINT highlight of 2020? A fun project I made called degoogle that pulls out result links from Google searches (and seems to bypass captchas which we still haven&amp;rsquo;t figured out a good reason for).
+What emerging (good or bad) trends did you notice over the past year? Low quality OSINT/bounty info in &amp;ldquo;viral&amp;rdquo; tweets, a detriment to newbies and others consuming the info.</description>
+    </item>
+    
+    <item>
+      <title>Joshua Richards</title>
+      <link>https://stateofosint.com/interviews/joshua-richards/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/joshua-richards/</guid>
+      <description>🔗 Twitter | Web
+What was your OSINT highlight of 2020? 2020 was a busy year so I wasn&amp;rsquo;t able to follow everything in the OSINT world as closely as usual but I know a personal highlight of mine was being a guest on the Layer 8 podcast and getting to tell one of my stories there. It has also been great listening to other people&amp;rsquo;s stories there on the podcast.</description>
+    </item>
+    
+    <item>
+      <title>Julia Bayer</title>
+      <link>https://stateofosint.com/interviews/julia-bayer/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/julia-bayer/</guid>
+      <description>🔗 Twitter | Quiztime
+What was your OSINT highlight of 2020? Starting my career as an investigative journalist with the main focus on OSINT.
+What emerging (good or bad) trends did you notice over the past year? Good: More attention and more interest in OSINT skills in journalism and other fields.
+Any favorite tool or technique that you tried in 2020? So many. One: The Gap Analysis
+How do you see the OSINT landscape changing in 2021?</description>
+    </item>
+    
+    <item>
+      <title>Michael &#39;Frank Castle&#39; James</title>
+      <link>https://stateofosint.com/interviews/frank-castle/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/frank-castle/</guid>
+      <description>🔗 Twitter | osintcurious
+What was your OSINT highlight of 2020? 2020 highlights: Personally, taking first place in the DefCon/Trace Labs SearchParty CTF was amazing. The Password Inspection Agency ( PIA) had taken second the month before so tackling the Balck Badge was rewarding.
+Professionally, adding two new amazing OSINT specialists to the Intelligence team was substantial. Our team engaged in a number of OSINT assessments for 2020. Flexing the OSINT muscles professionally was a lot of work but extremely enjoyable.</description>
+    </item>
+    
+    <item>
+      <title>Rae Baker</title>
+      <link>https://stateofosint.com/interviews/rae-baker/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/rae-baker/</guid>
+      <description>🔗 Twitter | Blog
+What was your OSINT highlight of 2020? I have so many personal highlights for 2020! The first was being invited to join the OSINT Curious Advisory Board. Being affiliated with top experts in the OSINT field still blows my mind. I also gave my first terrifying large stage presentation at ShmooCon and it was amazing. I became a volunteer for the Innocent Lives Foundation which is thoroughly rewarding.</description>
+    </item>
+    
+    <item>
+      <title>Salaheldinaz</title>
+      <link>https://stateofosint.com/interviews/salaheldinaz/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/salaheldinaz/</guid>
+      <description>🔗 Twitter | Blog
+What was your OSINT highlight of 2020? Networking &amp;amp; Collaboration. I got to know a lot of powerful people in the community, learned and collaborated with them on awesome projects.
+What emerging (good or bad) trends did you notice over the past year? The OSINT community is expanding! This opened the horizons for OSINT techniques and applications. Also, showed the world the true power of OSINT from fighting scams and disinformation to tracking cryptocurrencies, and social network investigation.</description>
+    </item>
+    
+    <item>
+      <title>Sinwindie</title>
+      <link>https://stateofosint.com/interviews/sinwindie/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/sinwindie/</guid>
+      <description>🔗 Twitter | Blog
+What was your OSINT highlight of 2020? Launching the OSINT Dojo at the end of 2020 was my highlight for the year. I wanted to help the influx of new OSINTers we were seeing while also providing them a list of challenges so that they had a road map for improving their skillsets and interacting with the overall community while they learned the basics.
+ https://www.OSINTDojo.com</description>
+    </item>
+    
+    <item>
+      <title>Steve Micallef</title>
+      <link>https://stateofosint.com/interviews/steve-micallef/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/steve-micallef/</guid>
+      <description>🔗 Twitter | Spiderfoot
+What was your OSINT highlight of 2020? Seeing the community and field, in general, continue to grow and thrive despite a challenging year. Seeing OSINT and SpiderFoot in particular be misused to falsely claim election fraud was a negative highlight of the year, for me personally.
+What emerging (good or bad) trends did you notice over the past year? My focus is on tools due to SpiderFoot, so that&amp;rsquo;s all I can really talk about.</description>
+    </item>
+    
+    <item>
+      <title>Steven Harris</title>
+      <link>https://stateofosint.com/interviews/steven-harris/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/steven-harris/</guid>
+      <description>🔗 Twitter | Blog
+What was your OSINT highlight of 2020? I think the way that OSINT continued to become more mainstream in 2020. For years it has been a very niche interest but more people and organizations across a huge number of sectors are starting to recognize the value of being able to create and use open-source intelligence.
+What emerging (good or bad) trends did you notice over the past year?</description>
+    </item>
+    
+  </channel>
+</rss>

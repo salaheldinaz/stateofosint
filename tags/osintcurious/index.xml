@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>osintcurious on STATE of OSINT</title>
+    <link>https://stateofosint.com/tags/osintcurious/</link>
+    <description>Recent content in osintcurious on STATE of OSINT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stateofosint.com/tags/osintcurious/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Michael &#39;Frank Castle&#39; James</title>
+      <link>https://stateofosint.com/interviews/frank-castle/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/frank-castle/</guid>
+      <description>🔗 Twitter | osintcurious
+What was your OSINT highlight of 2020? 2020 highlights: Personally, taking first place in the DefCon/Trace Labs SearchParty CTF was amazing. The Password Inspection Agency ( PIA) had taken second the month before so tackling the Balck Badge was rewarding.
+Professionally, adding two new amazing OSINT specialists to the Intelligence team was substantial. Our team engaged in a number of OSINT assessments for 2020. Flexing the OSINT muscles professionally was a lot of work but extremely enjoyable.</description>
+    </item>
+    
+    <item>
+      <title>Steven Harris</title>
+      <link>https://stateofosint.com/interviews/steven-harris/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/steven-harris/</guid>
+      <description>🔗 Twitter | Blog
+What was your OSINT highlight of 2020? I think the way that OSINT continued to become more mainstream in 2020. For years it has been a very niche interest but more people and organizations across a huge number of sectors are starting to recognize the value of being able to create and use open-source intelligence.
+What emerging (good or bad) trends did you notice over the past year?</description>
+    </item>
+    
+  </channel>
+</rss>

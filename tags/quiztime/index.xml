@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quiztime on STATE of OSINT</title>
+    <link>https://stateofosint.com/tags/quiztime/</link>
+    <description>Recent content in quiztime on STATE of OSINT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stateofosint.com/tags/quiztime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Julia Bayer</title>
+      <link>https://stateofosint.com/interviews/julia-bayer/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stateofosint.com/interviews/julia-bayer/</guid>
+      <description>🔗 Twitter | Quiztime
+What was your OSINT highlight of 2020? Starting my career as an investigative journalist with the main focus on OSINT.
+What emerging (good or bad) trends did you notice over the past year? Good: More attention and more interest in OSINT skills in journalism and other fields.
+Any favorite tool or technique that you tried in 2020? So many. One: The Gap Analysis
+How do you see the OSINT landscape changing in 2021?</description>
+    </item>
+    
+  </channel>
+</rss>

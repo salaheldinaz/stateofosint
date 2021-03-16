@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>STATE of OSINT in 2020/2021 on STATE of OSINT</title>
+        <link>https://stateofosint.com/</link>
+        <description>Recent content in STATE of OSINT in 2020/2021 on STATE of OSINT</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stateofosint.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Brenna Smith</title>
+        <link>https://stateofosint.com/interviews/brenna-smith/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/brenna-smith/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/brenna-smith/brenna_smith_cover.png" alt="Featured image of post Brenna Smith" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/brenna__smith&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;My highlight of 2020 was getting to broaden my skillset outside of crypto, especially with python work.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bellingcat.com/author/brennasmith/&#34;&gt;https://www.bellingcat.com/author/brennasmith/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve noticed that OSINT is actually a skillset many people have and use daily. In my opinion, that&amp;rsquo;s a great thing and
+should be humbling for the space. I think many of us consider OSINT to be a small group of experts, but there are so
+many other people out there doing great open-source research who just don&amp;rsquo;t know about the community or identify with
+the label.&lt;/p&gt;
+&lt;p&gt;For example, a huge amount of Gen Zero&amp;rsquo;s are EXPERT social media sleuths, especially on TikTok, but they
+wouldn&amp;rsquo;t necessarily identify as open-source researchers.&lt;/p&gt;
+&lt;p&gt;Point being, we&amp;rsquo;re in this small bubble with fancy names like
+OSINT and SOCINT, but really, we&amp;rsquo;re not as special as we think. And that&amp;rsquo;s a good thing. It will make us expand more as
+a community and grow as researchers.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;Blockchain is my new favorite blockchain tool. I also finally invested in &lt;a class=&#34;link&#34; href=&#34;https://www.hunch.ly/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hunchly&lt;/a&gt; which made my life much easier. On
+Github, there are so many goodies. The Sherlock Project, Recon-ng, buster.
+Oh, and &lt;a class=&#34;link&#34; href=&#34;https://tweetdeck.twitter.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;tweetdeck&lt;/a&gt;, always tweetdeck.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;I think OSINT is going to continue to further mesh with journalism in a big way. Eventually, I predict the skillset will
+be compulsory for any reporter.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;Y&amp;rsquo;all rock! Keep up the good work.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Espen Ringstad (Zewensec)</title>
+        <link>https://stateofosint.com/interviews/zewensec/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/zewensec/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/zewensec/Zewensec_cover.png" alt="Featured image of post Espen Ringstad (Zewensec)" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/Zewensec&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;I think I&amp;rsquo;d like to highlight the so-called &amp;ldquo;FBI Etsy t-shirt case&amp;rdquo;, where the FBI was able to identify a participant in the George Floyd protests based on her t-shirt. She was wearing a shirt that she bought on Etsy, where she had also left a review. This, in addition to image analysis of photos and videos, where they were also able to identify a tattoo, ultimately lead to the arrest of the protester.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Agents said they then found an Etsy shop that sold the T-shirt the woman in the photo was wearing, and linked a review to a woman in Philadelphia, finally identifying her place of work on LinkedIn.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This felt like a watershed moment for OSINT, especially from a civilian standpoint. The case got a lot of traction in the media and it seemed like everyone was just baffled by the FBI&amp;rsquo;s ability to use social media to identify a protester using modern intelligence techniques found in the discipline of OSINT.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;2020 has attracted a lot of new people to the field, especially with the popularity of OSINT-related CTFs. I almost get the feeling that those who wanted to be hackers/pentesters before want to be OSINT-ers now, which is great!&lt;/p&gt;
+&lt;p&gt;The downside to this is that we are definitely seeing people with bad intentions utilize the tools and methods that we share so openly in our communities. I have experienced this first hand at Operation Safe Escape, where we deal with cases that involve abusers and stalkers that are very competent in their OSINT skills.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;Publicly and especially free satellite images have taken huge strides in 2020. I&amp;rsquo;m amazed by how good the quality, selection, and frequency of satellite images have become and I love using them in my investigations. Thanks to IntelliEarth, Sentinel Hub, Google Earth, and others!&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;I think we will see more use of automated data collection tools for OSINT in general and a large number of tools and platforms to handle that data. OSINT will help identify important data sets for qualitative and quantitative data analysis, which in return will help narrow which methods and tools we should apply for more specific investigations.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;As OSINT grows in popularity and attracts a large number of beginner OSINT-ers, please be open to the idea that even beginners can teach you a thing or two - don&amp;rsquo;t shut them down just because they are new! Invite their somewhat naive and fresh perspectives into the fold and support their eagerness as they look for new solutions to old problems.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>GONZO</title>
+        <link>https://stateofosint.com/interviews/gonzo/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/gonzo/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/gonzo/Gonzo_cover.png" alt="Featured image of post GONZO" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/GONZOs_int&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;  |  &lt;a class=&#34;link&#34; href=&#34;https://osint.team/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Web&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;2nd position on TraceLabs Search Party CTF.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;The adoption of artificial intelligence and facial recognition technologies by many sectors that before the stage of COVID-19 was unthinkable that they would use it.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;@Megadose did a great job with Holehe, also GHunt from Epieos. socid-extractor and maigret from @soxoj are really nice too.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;I think it is becoming a booming sector, with the good and bad things that this entails.
+There is no doubt that in 2021 the most emerging cybersecurity services will be related to OSINT.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;Join &lt;a class=&#34;link&#34; href=&#34;https://osint.team&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;osint.team&lt;/a&gt; community!&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 300; flex-basis: 720px&#34;&gt;
+		&lt;a href=&#34;https://stateofosint.com/interviews/gonzo/gonzo_img_1.png&#34; data-size=&#34;1500x500&#34;&gt;&lt;img src=&#34;https://stateofosint.com/interviews/gonzo/gonzo_img_1.png&#34;
+				srcset=&#34;https://stateofosint.com/interviews/gonzo/gonzo_img_1_hudabb1d774ff2af4314fab8d3472b9ead_37333_480x0_resize_box_2.png 480w, https://stateofosint.com/interviews/gonzo/gonzo_img_1_hudabb1d774ff2af4314fab8d3472b9ead_37333_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;1500&#34;
+				height=&#34;500&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Gonzo Twitter Cover&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Gonzo Twitter Cover&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hermit</title>
+        <link>https://stateofosint.com/interviews/hermit/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/hermit/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/hermit/hermit_cover.png" alt="Featured image of post Hermit" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/ackmage&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;  |  &lt;a class=&#34;link&#34; href=&#34;https://github.com/deepseagirl&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;A fun project I made called degoogle that pulls out result links from Google searches (and seems to bypass captchas which we still haven&amp;rsquo;t figured out a good reason for).&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;Low quality OSINT/bounty info in &amp;ldquo;viral&amp;rdquo; tweets, a detriment to newbies and others consuming the info.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;Dorking popular sites I might normally skip assuming anything good has already been found (found a twitter.com open redirect in Google results doing this)&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;More non-infosec/computery folks learning how to research things on the internet for themselves and protect themselves against dubious information - maybe even with the help of the computery folks in their lives.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;Thanks to everyone who shares their ideas.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Joshua Richards</title>
+        <link>https://stateofosint.com/interviews/joshua-richards/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/joshua-richards/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/joshua-richards/joshua_cover.png" alt="Featured image of post Joshua Richards" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/AccessOSINT&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://accessosint.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Web&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;2020 was a busy year so I wasn&amp;rsquo;t able to follow everything in the OSINT world as closely as usual but I know a personal
+highlight of mine was being a guest on the Layer 8 podcast and getting to tell one of my stories there. It has also been
+great listening to other people&amp;rsquo;s stories there on the podcast.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;Certainly, a lot more people have come together in communities such as the Searchlight Discord. This has been another
+big highlight of 2020, being apart of Team Searchlight and watching it grow into such an incredible community. I think
+many people who didn&amp;rsquo;t like platforms such as Discord much before have still given into it now because they know it is a
+valuable resource for learning and collaborating with others.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://Newspapers.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Newspapers.com&lt;/a&gt; has been very interesting to use this year. Some very good information can be found in historic
+newspapers that cannot be found elsewhere on the internet publicly. One incredible highlight I have for this is when I
+was searching someone to show them what could be found and I found a ton of old family photos such as their father as a
+baby being held by his mother and so many more. The incredible thing was, their family now had never seen any of these
+images before and I could provide these to them and that feels amazing to do because who doesn&amp;rsquo;t love old family photos?&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;With everything constantly changing, I don&amp;rsquo;t know, but it will be interesting to see what happens with topics such as
+privacy laws, official OSINT certifications, what social media platforms come and go, community events, new
+investigation tools and techniques, and so much more.&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 300; flex-basis: 720px&#34;&gt;
+		&lt;a href=&#34;https://stateofosint.com/interviews/joshua-richards/joshua_img_1.jpg&#34; data-size=&#34;1500x500&#34;&gt;&lt;img src=&#34;https://stateofosint.com/interviews/joshua-richards/joshua_img_1.jpg&#34;
+				srcset=&#34;https://stateofosint.com/interviews/joshua-richards/joshua_img_1_hu518388a30ef992befbf1723ce76a7e19_94461_480x0_resize_q75_box.jpg 480w, https://stateofosint.com/interviews/joshua-richards/joshua_img_1_hu518388a30ef992befbf1723ce76a7e19_94461_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;1500&#34;
+				height=&#34;500&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;joshua Twitter Cover&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;joshua Twitter Cover&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Julia Bayer</title>
+        <link>https://stateofosint.com/interviews/julia-bayer/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/julia-bayer/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/julia-bayer/Julia_cover.png" alt="Featured image of post Julia Bayer" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/bayer_julia&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;  |  &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/Quiztime&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quiztime&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;Starting my career as an investigative journalist with the main focus on OSINT.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;Good: More attention and more interest in OSINT skills in journalism and other fields.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;So many. One: The Gap Analysis&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;It will get more attention and will be integrated more in all kinds of work fields. But the expectations of OSINT work will get higher as well cause the definition is still unclear.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s about collaboration which is the beauty of this community. Sharing your skills and learning from each other.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Michael &#39;Frank Castle&#39; James</title>
+        <link>https://stateofosint.com/interviews/frank-castle/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/frank-castle/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/frank-castle/frank_cover.png" alt="Featured image of post Michael &#39;Frank Castle&#39; James" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/Ginsberg5150&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;  | &lt;a class=&#34;link&#34; href=&#34;https://osintcurio.us/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;osintcurious&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;h3 id=&#34;2020-highlights&#34;&gt;2020 highlights:&lt;/h3&gt;
+&lt;p&gt;Personally, taking first place in the DefCon/Trace Labs SearchParty CTF was amazing. The Password Inspection Agency (
+PIA) had taken second the month before so tackling the Balck Badge was rewarding.&lt;/p&gt;
+&lt;p&gt;Professionally, adding two new amazing OSINT specialists to the Intelligence team was substantial. Our team engaged in a
+number of OSINT assessments for 2020. Flexing the OSINT muscles professionally was a lot of work but extremely
+enjoyable.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;Ransomware was a huge trend for 2020 unfortunately. 2020 was not the first time we saw this trend but the community
+around discoverability and information sharing was improved in 2020 (a good thing).&lt;/p&gt;
+&lt;p&gt;Proactive hunting for external indicators of vulnerable systems was critical this year as well. We also took it a step
+further and researched personnel and vendor relationships concerning data breach details. Layering in your threat
+landscape with day-to-day activities was a huge trend for a lot of our assessments and benefited our team and clients
+greatly.&lt;/p&gt;
+&lt;p&gt;A big move for the entire community was understanding and analyzing more of the technical data and automation tactics
+for Open Source intelligence. It’s a great trend that will continue. It shows the level of maturity in the community.
+The last couple of years have been focused around web browser interaction and Graphical User Interface methods. This is
+not a bad thing but it can be very manual.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;Spiderfoot HX, Hunch.ly, EchoSec, IntelX, ViewDns, DeGoogle, Maigret, Osmedeus&amp;hellip;really too many to list. I really like
+playing in the DEV Console. I&amp;rsquo;m not great at navigating it but it&amp;rsquo;s helpful.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;I think the area will grow a lot in the next 5 years. More people understand that you don&amp;rsquo;t need to be a developer or
+programmer to use the code to assist OSINT investigations. More data is also coming out at faster rates than ever
+before. This will help researchers in the long term. I do see a lot of people that are not validating information and
+this needs to be corrected.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;I’m am very excited to see what other areas the OSINT community can reveal data from. I think we are still very early in
+adoption for Open Source INtelligence. Opportunities for researchers will increase.&lt;/p&gt;
+&lt;p&gt;I also understand that the data
+breach and leaks industry will continue to develop as well as the increasing number of people who become proficient with
+TOR and DeepWeb markets or sites will start to become more mainstream, pushing other actors into lesser-known networks.
+Keep learning!! It&amp;rsquo;s the only way to stay ahead of the constantly changing curve.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Rae Baker</title>
+        <link>https://stateofosint.com/interviews/rae-baker/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/rae-baker/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/rae-baker/rae_cover.png" alt="Featured image of post Rae Baker" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/wondersmith_rae&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;  | &lt;a class=&#34;link&#34; href=&#34;https://wondersmithrae.medium.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Blog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;I have so many personal highlights for 2020! The first was being invited to join the OSINT Curious Advisory Board. Being affiliated with top experts in the OSINT field still blows my mind. I also gave my first terrifying large stage presentation at ShmooCon and it was amazing. I became a volunteer for the Innocent Lives Foundation which is thoroughly rewarding. Last but certainly not least, I got a job doing what I love to do and I could not be happier.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;I have noticed an increased interest in the field of OSINT due to popular shows featuring OSINT skills. I believe this trend will continue into 2021 as this type of investigative work gets more time on popular podcasts, movies, and TV shows.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;I am a big fan of Spiderfoot, FOCA, hunter.io, and resources like Open Corporates and marine traffic for my day-to-day work. I am a simple person though, just give me Google and I will make it work.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;In 2021 I anticipate more automation tools being created using AI/Machine Learning. I think the influx of new people into the OSINT field will continue to make space for training opportunities, classes, and tools like TryHackMe. I see OSINT for good expanding, with more organizations leveraging the craft for use against crime. I also believe more companies will begin to see the value in OSINT data for protecting their business which in turn will create more jobs within the field.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;The state of OSINT for 2021 looks great and I hope it will provide plenty of opportunities for people to break into the field and perfect their tradecraft.&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 300; flex-basis: 720px&#34;&gt;
+		&lt;a href=&#34;https://stateofosint.com/interviews/rae-baker/rae_img_1.jpg&#34; data-size=&#34;1500x500&#34;&gt;&lt;img src=&#34;https://stateofosint.com/interviews/rae-baker/rae_img_1.jpg&#34;
+				srcset=&#34;https://stateofosint.com/interviews/rae-baker/rae_img_1_huaa1974647fd23cdd82f721b18692e7f0_269136_480x0_resize_q75_box.jpg 480w, https://stateofosint.com/interviews/rae-baker/rae_img_1_huaa1974647fd23cdd82f721b18692e7f0_269136_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;1500&#34;
+				height=&#34;500&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Rae Twitter Cover&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Rae Twitter Cover&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Salaheldinaz</title>
+        <link>https://stateofosint.com/interviews/salaheldinaz/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/salaheldinaz/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/salaheldinaz/salaheldinaz_cover.png" alt="Featured image of post Salaheldinaz" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/Salaheldinaz&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://salaheldin.online&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Blog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;Networking &amp;amp; Collaboration. I got to know a lot of powerful people in the community, learned and collaborated with them on awesome projects.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;The OSINT community is expanding! This opened the horizons for OSINT techniques and applications.
+Also, showed the world the true power of OSINT from fighting scams and disinformation to tracking cryptocurrencies, and social network investigation.&lt;/p&gt;
+&lt;p&gt;But we have also seen few attempts to penetrate the community using suspicious tools, stealing authored materials, or recruiting for dark ops.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;Michael Bazzell and Sinwindie flowcharts are great resources to guide you through different platforms and find new pivot points.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;I think there are two major trendings:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Usage of dev techniques to access more raw data as we saw with TikTok, Gab, and Parler.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Threat actors are stepping up their capabilities after they become more aware of OSINT as a double-edged sword. This will make it harder to investigate the new attacks but it&amp;rsquo;s always the little things that get them caught.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I believe the OSINT community proved its evolving capability to fight emerging threats and stay one step ahead.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;Your Mind is the ultimate OSINT tool, invest in it and help others to do so.&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 300; flex-basis: 720px&#34;&gt;
+		&lt;a href=&#34;https://stateofosint.com/interviews/salaheldinaz/Salaheldinaz_img_1.jpg&#34; data-size=&#34;1500x500&#34;&gt;&lt;img src=&#34;https://stateofosint.com/interviews/salaheldinaz/Salaheldinaz_img_1.jpg&#34;
+				srcset=&#34;https://stateofosint.com/interviews/salaheldinaz/Salaheldinaz_img_1_hu2ba8010de63a68c95a1d66b53ac48221_26544_480x0_resize_q75_box.jpg 480w, https://stateofosint.com/interviews/salaheldinaz/Salaheldinaz_img_1_hu2ba8010de63a68c95a1d66b53ac48221_26544_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;1500&#34;
+				height=&#34;500&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Salaheldinaz_Twitter Cover&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Salaheldinaz_Twitter Cover&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Sinwindie</title>
+        <link>https://stateofosint.com/interviews/sinwindie/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/sinwindie/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/sinwindie/sinwindie_cover.png" alt="Featured image of post Sinwindie" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/sinwindie&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt;  |  &lt;a class=&#34;link&#34; href=&#34;https://www.secjuice.com/author/sinwindie/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Blog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;Launching the OSINT Dojo at the end of 2020 was my highlight for the year. I wanted to help the influx of new OSINTers we were seeing while also providing them a list of challenges so that they had a road map for improving their skillsets and interacting with the overall community while they learned the basics.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.OSINTDojo.com&#34;&gt;https://www.OSINTDojo.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;Last year we saw an increase in the number of people interested in learning about OSINT and OSINT techniques, which is great. However, the reliance on collection tools rather than intelligence methodologies continues to be a reoccurring trend, especially among newer analysts. With the increase in availability and interest, the use of OSINT tools and methodologies to doxx, harass, or target others remained an ongoing challenge as well.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;AWS Lambda was something that I found myself leveraging more to improve my current OSINT workflows. I create my OSINT Python scripts as usual and then use Lambda triggers to run them at specified intervals.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;2021 will see OSINT continue to go mainstream. We are already seeing this with recent events at the US Capitol building as well as thanks in part to COVID lockdowns and the more accessible virtual TraceLabs events. People currently have more time at their disposal and many turned to online sleuthing as a way to learn new skills and keep busy.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;As the OSINT community grows we must continue to encourage newcomers to learn, explore, and create while simultaneously ensuring that we also stress the importance of using OSINT for positive endeavors rather than malicious ones.&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 300; flex-basis: 720px&#34;&gt;
+		&lt;a href=&#34;https://stateofosint.com/interviews/sinwindie/sinwindie_img_1.jpg&#34; data-size=&#34;1500x500&#34;&gt;&lt;img src=&#34;https://stateofosint.com/interviews/sinwindie/sinwindie_img_1.jpg&#34;
+				srcset=&#34;https://stateofosint.com/interviews/sinwindie/sinwindie_img_1_huf9c6329dc1b29b0b5e597167bc7272a5_127001_480x0_resize_q75_box.jpg 480w, https://stateofosint.com/interviews/sinwindie/sinwindie_img_1_huf9c6329dc1b29b0b5e597167bc7272a5_127001_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;1500&#34;
+				height=&#34;500&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Sinwindie Twitter Cover&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Sinwindie Twitter Cover&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Steve Micallef</title>
+        <link>https://stateofosint.com/interviews/steve-micallef/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/steve-micallef/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/steve-micallef/steve_cover.png" alt="Featured image of post Steve Micallef" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/binarypool&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/spiderfoot&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Spiderfoot&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;Seeing the community and field, in general, continue to grow and thrive despite a challenging year. Seeing OSINT and SpiderFoot in particular be misused to falsely claim election fraud was a negative highlight of the year, for me personally.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;My focus is on tools due to SpiderFoot, so that&amp;rsquo;s all I can really talk about. I see more tools and services coming onto the scene and OSINT as a topic appears to be becoming more prominent in InfoSec discussions where I see &amp;ldquo;recon&amp;rdquo; is becoming more often replaced with OSINT.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;So many to name, but I think IntelligenceX and SpySe are proving to be great resources with rich datasets. Greyhat Warfare also looks pretty interesting.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;Likely more of the same - more open source tools, more commercial spin-offs of those tools, more APIs providing access to searchable datasets.&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 300; flex-basis: 720px&#34;&gt;
+		&lt;a href=&#34;https://stateofosint.com/interviews/steve-micallef/steve_img_1.jpg&#34; data-size=&#34;1500x500&#34;&gt;&lt;img src=&#34;https://stateofosint.com/interviews/steve-micallef/steve_img_1.jpg&#34;
+				srcset=&#34;https://stateofosint.com/interviews/steve-micallef/steve_img_1_hu1044c4ec257293ab8eaebd6b48b7273c_65794_480x0_resize_q75_box.jpg 480w, https://stateofosint.com/interviews/steve-micallef/steve_img_1_hu1044c4ec257293ab8eaebd6b48b7273c_65794_1024x0_resize_q75_box.jpg 1024w&#34;
+				width=&#34;1500&#34;
+				height=&#34;500&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Steve Twitter Cover&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Steve Twitter Cover&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Steven Harris</title>
+        <link>https://stateofosint.com/interviews/steven-harris/</link>
+        <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://stateofosint.com/interviews/steven-harris/</guid>
+        <description>&lt;img src="https://stateofosint.com/interviews/steven-harris/Steven_cover.png" alt="Featured image of post Steven Harris" /&gt;&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/nixintel&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Twitter&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://nixintel.info&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Blog&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-was-your-osint-highlight-of-2020&#34;&gt;What was your OSINT highlight of 2020?&lt;/h2&gt;
+&lt;p&gt;I think the way that OSINT continued to become more mainstream in 2020. For years it has been a very niche interest but more people and organizations across a huge number of sectors are starting to recognize the value of being able to create and use open-source intelligence.&lt;/p&gt;
+&lt;h2 id=&#34;what-emerging-good-or-bad-trends-did-you-notice-over-the-past-year&#34;&gt;What emerging (good or bad) trends did you notice over the past year?&lt;/h2&gt;
+&lt;p&gt;I like the way in which breaking news events are increasingly accompanied by almost real-time verification and assessment of sources. The journalists and outlets who master these skills are becoming the most important and often leave traditional outlets far behind.&lt;/p&gt;
+&lt;p&gt;It isn’t all positive though. We have seen examples of where so-called “OSINT” can be used for misinformation. The attempt to show how Dominion Voting Systems were supposedly linked to China was one such example. Data can be easily misrepresented and used to mislead if it is not accompanied by sound analysis.&lt;/p&gt;
+&lt;p&gt;Gathering data is easy enough, but being able to critically evaluate it and turn it into useful, truthful, and actionable intelligence is still the most important skill for OSINT analysts to possess.&lt;/p&gt;
+&lt;h2 id=&#34;any-favorite-tool-or-technique-that-you-tried-in-2020&#34;&gt;Any favorite tool or technique that you tried in 2020?&lt;/h2&gt;
+&lt;p&gt;Spiderfoot HX remains my favorite tool for most OSINT work. It means a lot of the information gathering and discovery for a particular project is done very quickly. It means I have a lot more time to focus on analysis and reporting.&lt;/p&gt;
+&lt;h2 id=&#34;how-do-you-see-the-osint-landscape-changing-in-2021&#34;&gt;How do you see the OSINT landscape changing in 2021?&lt;/h2&gt;
+&lt;p&gt;I think we will see an increased need for OSINT researchers to work with large volumes of raw data. The world is producing more data all the time and there are a lot of stories to be mined from it. Some data science skills will become more valuable for OSINT analysts.&lt;/p&gt;
+&lt;p&gt;I think that more organizations will start to realize the benefits of OSINT when assessing their security risk. High-profile ransomware attacks or supply chain compromises like SolarWinds are devastating but long before the attacks took place the bad guys will have been doing OSINT to find the weaknesses that they went on to exploit. Good OSINT analysis helps organizations to look in the mirror and see how they really appear to threat actors. It can be uncomfortable but it is better to be truthful from the outset.&lt;/p&gt;
+&lt;h2 id=&#34;anything-else-youd-like-to-add-about-the-state-of-osint&#34;&gt;Anything else you&amp;rsquo;d like to add about The State of OSINT?&lt;/h2&gt;
+&lt;p&gt;Keep being curious!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
