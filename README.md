@@ -35,15 +35,26 @@ verification and analysis also has to be nurtured.
 
 
 ## Interviews
+
 [![Brenna-Smith](/img/titles/brenna_title.png)](https://stateofosint.com/interviews/brenna-smith/)
-[![Frank-Castle](/img/titles/frank_title.png)](https://stateofosint.com/interviews/frank-castle/)
 [![GONZO](/img/titles/gonzo_title.png)](https://stateofosint.com/interviews/gonzo/)
 [![Hermit](/img/titles/hermit_title.png)](https://stateofosint.com/interviews/hermit/)
 [![Joshua-Richards](/img/titles/joshua_title.png)](https://stateofosint.com/interviews/joshua-richards/)
 [![Julia-Bayer](/img/titles/julia_title.png)](https://stateofosint.com/interviews/julia-bayer/)
 [![Rae-Baker](/img/titles/rae_title.png)](https://stateofosint.com/interviews/rae-baker/)
-[![Salaheldinaz](/img/titles/salaheldinaz_title.png)](https://stateofosint.com/interviews/salaheldinaz/)
+
 [![Sinwindie](/img/titles/sinwindie_title.png)](https://stateofosint.com/interviews/sinwindie/)
 [![Steve-Micallef](/img/titles/steve_title.png)](https://stateofosint.com/interviews/steve-micallef/)
-[![Steven-Harris](/img/titles/steven_title.png)](https://stateofosint.com/interviews/steven-harris/)
+
 [![Zewensec](/img/titles/zewensec_title.png)](https://stateofosint.com/interviews/zewensec/)
+
+
+
+
+
+## Project Team
+[![Frank-Castle](/img/titles/frank_title.png)](https://stateofosint.com/interviews/frank-castle/)
+
+[![Salaheldinaz](/img/titles/salaheldinaz_title.png)](https://stateofosint.com/interviews/salaheldinaz/)
+
+[![Steven-Harris](/img/titles/steven_title.png)](https://stateofosint.com/interviews/steven-harris/)
