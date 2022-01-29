@@ -1,5 +1,5 @@
 # STATE of OSINT
-[![state-of-osint](/img/about_cover.png)](https://stateofosint.com/)
+[![state-of-osint](/img/about_cover_2022.png)](https://stateofosint.com/)
 
 
 ## Introduction
